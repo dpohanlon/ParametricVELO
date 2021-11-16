@@ -1,0 +1,15 @@
+{
+"BtoInvisible" : 0.1,
+"DtoInvisible" : 0.1,
+"DfromB" : 0.2,
+"BtoN" : [0.5, 0.25, 0.1, 0.1, 0.05],
+"DtoN" : [0.75, 0.1, 0.05, 0.1],
+"Bflight" : 7,
+"Dflight" : 4,
+"DtoBProd" : 20,
+"EBoost" : 2000,
+"EBoostSigma" : 250,
+"BMass" : 5.3,
+"DMass" : 1.9,
+"piMass" : 0.14
+}
